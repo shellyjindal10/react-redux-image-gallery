@@ -1,11 +1,11 @@
-# react-redux-image-gallery
+# React-Redux-Image-Gallery
 
 # Instructions
 
 Setup
 
 ```
-// clone the repo
+clone the repo
 git clone https://github.com/shellyjindal10/react-redux-image-gallery.git
 
 cd react-redux-image-gallery
